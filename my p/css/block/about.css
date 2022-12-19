@@ -1,0 +1,39 @@
+
+.about:before {
+	position: relative;
+	left: 160px;
+	display: inline-block;
+	vertical-align: top;
+	width: 390px;
+	height: 455px;
+	
+	
+
+}
+.about_img {
+	float: left;
+	display: block;
+	width: 250px;
+	height: 300px;
+
+}
+.about__content {
+	padding: 80px 10px;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: : -157px;
+	margin-top: -300px;
+
+}
+.title--dark {
+	font-weight: bold;
+	font-size: 36px;
+	margin-bottom: 0px;
+	margin-left: 500px;
+	}
+.about__text {
+	font-weight: bold;
+}
+.about__image{
+	float: right;
+}
